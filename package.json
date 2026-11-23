@@ -19,9 +19,9 @@
     "url": "https://github.com/dvrpc/sidewalk-data-viz"
   },
   "devDependencies": {
-    "copy-webpack-plugin": "^7.0.0",
+    "copy-webpack-plugin": "^14.0.0",
     "css-loader": "^5.0.1",
-    "css-minimizer-webpack-plugin": "^4.2.2",
+    "css-minimizer-webpack-plugin": "^8.0.0",
     "file-loader": "^6.2.0",
     "html-bundler-webpack-plugin": "^4.0.0",
     "html-webpack-plugin": "^4.5.2",
